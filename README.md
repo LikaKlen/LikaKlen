@@ -4,7 +4,7 @@
 - **Java, Python, C#**  
 - **Spring Boot** (REST API, Dependency Injection, Spring Security)  
 - **Hibernate, JPA, ORM**  
--**Micro Service Architecture** (understanding)  
+- **Micro Service Architecture** (understanding)  
 - **Authorization and authentication** (JWT, OAuth2)
 
 ### **Frontend-разработка**  
